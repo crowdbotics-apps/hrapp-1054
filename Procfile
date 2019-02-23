@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT hrapp_1054.wsgi:application
